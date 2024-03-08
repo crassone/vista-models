@@ -1,0 +1,13 @@
+# model
+huggingface_model_name: coatnet_2_rw_224.sw_in12k_ft_in1k
+input_img_size: 224
+
+# parameters
+epochs: 25
+gamma: 0.7
+batch_size: 32
+lr: 0.0001
+lr_min: 0.00001
+warmup_ratio: 0.1
+optimizer_name: adamw
+weight_decay: 0.01

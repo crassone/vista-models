@@ -1,0 +1,5 @@
+# CatBoostパラメータ
+depth: 6
+learning_rate: 0.03
+early_stopping_rounds: 10
+iterations: 500
