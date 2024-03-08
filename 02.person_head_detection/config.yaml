@@ -1,0 +1,6 @@
+MMDET_CONFIG_FILE: rtmdet_m_8xb32-300e_coco.py
+MMDET_CHECKPOINT_FILE: rtmdet_m_8xb32-300e_coco_20220719_112220-229f527c.pth
+MMPOSE_CONFIG_FILE: rtmpose-m_8xb256-420e_body8-256x192.py
+MMPOSE_CHECKPOINT_FILE: rtmpose-m_simcc-body7_pt-body7_420e-256x192-e48f03d0_20230504.pth
+BBOX_THR: 0.3
+NMS_THR: 0.3
